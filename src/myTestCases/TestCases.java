@@ -131,11 +131,11 @@ public class TestCases {
 	     
 			for (int i = 0 ; i < allNumbers.size() ; i++ ) {
 				
-//				if (allButtons.get(i).getAttribute("resource-id").contains("digit_2")
-//				|| allButtons.get(i).getAttribute("resource-id").contains("digit_4")
-//				|| allButtons.get(i).getAttribute("resource-id").contains("digit_6")
-//				|| allButtons.get(i).getAttribute("resource-id").contains("digit_8")
-//				|| allButtons.get(i).getAttribute("resource-id").contains("digit_0")) {
+//				if (allButtons.get(i).getAttribute("resource-id").contains("digit_1")
+//				|| allButtons.get(i).getAttribute("resource-id").contains("digit_3")
+//				|| allButtons.get(i).getAttribute("resource-id").contains("digit_5")
+//				|| allButtons.get(i).getAttribute("resource-id").contains("digit_7")
+//				|| allButtons.get(i).getAttribute("resource-id").contains("digit_9")) {
 //			allButtons.get(i).click(); 
 //		} 
 				
