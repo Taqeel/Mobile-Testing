@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-28T02:18:56 EET" name="Default suite" finished-at="2024-03-28T02:19:30 EET" duration-ms="33942">
+    <groups>
+    </groups>
+    <test started-at="2024-03-28T02:18:56 EET" name="Default test" finished-at="2024-03-28T02:19:30 EET" duration-ms="33942">
+      <class name="myTestCases.TestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:myTestCases.TestCases@a38c7fe]" started-at="2024-03-28T02:18:56 EET" name="mySetup" finished-at="2024-03-28T02:18:56 EET" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="myTest()[pri:1, instance:myTestCases.TestCases@a38c7fe]" started-at="2024-03-28T02:18:56 EET" name="myTest" finished-at="2024-03-28T02:19:13 EET" duration-ms="16898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method signature="preesonAllNumbersOnlyNumbers()[pri:2, instance:myTestCases.TestCases@a38c7fe]" started-at="2024-03-28T02:19:13 EET" name="preesonAllNumbersOnlyNumbers" finished-at="2024-03-28T02:19:20 EET" duration-ms="7305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preesonAllNumbersOnlyNumbers -->
+        <test-method signature="pressOnEvenNumbers()[pri:3, instance:myTestCases.TestCases@a38c7fe]" started-at="2024-03-28T02:19:20 EET" name="pressOnEvenNumbers" finished-at="2024-03-28T02:19:24 EET" duration-ms="4297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pressOnEvenNumbers -->
+        <test-method signature="pressOnOddNumbers()[pri:4, instance:myTestCases.TestCases@a38c7fe]" started-at="2024-03-28T02:19:24 EET" name="pressOnOddNumbers" finished-at="2024-03-28T02:19:30 EET" duration-ms="5328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pressOnOddNumbers -->
+      </class> <!-- myTestCases.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
